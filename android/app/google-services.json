@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "283740360670",
+    "project_id": "videoassignment-8af89",
+    "storage_bucket": "videoassignment-8af89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283740360670:android:9dfcf78d8957a70b17974f",
+        "android_client_info": {
+          "package_name": "com.example.video_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283740360670-qjbqrmbh9hsi5cf95gceipip9n3ds6nl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOEHFrJdFLF73HlUVLXb0e_2OrKWhScoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283740360670-qjbqrmbh9hsi5cf95gceipip9n3ds6nl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
